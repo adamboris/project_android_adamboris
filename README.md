@@ -10,14 +10,19 @@ Fonction disponible:
 
 Utilisation de l'application:
 
-L'utilisateur se connecte sur l'application en indiquant son adresse email, et son identifiant.
-<img src="Screenshot_20180204-164550.png" width="400">
-
+ - L'utilisateur se connecte sur l'application en indiquant son adresse email, et son identifiant.
 
 <img src="Screenshot_20180204-164454.png" width="400">
 
+  - L'utilisateur peut regarder les messages envoyés par les autres utilisateurs et il peut leur envoyer un message qu'ils receveront.
+
 <img src="Screenshot_20180204-164520.png" width="400">
 
+  - L'utilisateur peut modifier ou supprimer les messages affiché en maintenant un long clique sur le message qu'il veut changer, puis cliquer sur modifier ou sur supprimer. 
+  
 <img src="Screenshot_20180204-164532.png" width="400">
 
+  - L'utilisateur peut se deconnecter en cliquant sur le bouton deconnection, il retournera sur la page de connection.
+  
+<img src="Screenshot_20180204-164550.png" width="400">
 
