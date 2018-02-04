@@ -10,10 +10,14 @@ Fonction disponible:
 
 Utilisation de l'application:
 
-![](./Screenshot_20180204-164454.png)
+L'utilisateur se connecte sur l'application en indiquant son adresse email, et son identifiant.
+<img src="Screenshot_20180204-164550.png" width="400">
 
-<img src="Screenshot_20180204-164520.png" width="200">
 
-![](Screenshot_20180204-164532.png)
+<img src="Screenshot_20180204-164454.png" width="400">
 
-![](Screenshot_20180204-164550.png)
+<img src="Screenshot_20180204-164520.png" width="400">
+
+<img src="Screenshot_20180204-164532.png" width="400">
+
+
