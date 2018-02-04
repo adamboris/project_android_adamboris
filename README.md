@@ -12,7 +12,7 @@ Utilisation de l'application:
 
 ![](./Screenshot_20180204-164454.png)
 
-<img src="Screenshot_20180204-164520.png" alt="Drawing" style="width: 200px;"/>
+<img src="Screenshot_20180204-164520.png" width="200">
 
 ![](Screenshot_20180204-164532.png)
 
