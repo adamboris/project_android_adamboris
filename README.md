@@ -10,7 +10,7 @@ Fonction disponible:
 
 Utilisation de l'application:
 
-./Screenshot_20180204-164454.png
+![](Screenshot_20180204-164454.png)
 
 ./Screenshot_20180204-164520.png
 
