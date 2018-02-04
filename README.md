@@ -10,9 +10,9 @@ Fonction disponible:
 
 Utilisation de l'application:
 
-![](./Screenshot_20180204-164454.png =250x)
+![](./Screenshot_20180204-164454.png)
 
-![](Screenshot_20180204-164520.png)
+<img src="Screenshot_20180204-164520.png" alt="Drawing" style="width: 200px;"/>
 
 ![](Screenshot_20180204-164532.png)
 
