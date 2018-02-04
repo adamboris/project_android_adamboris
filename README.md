@@ -10,10 +10,10 @@ Fonction disponible:
 
 Utilisation de l'application:
 
-![](Screenshot_20180204-164454.png)
+![](Screenshot_20180204-164454.png width="100")
 
-./Screenshot_20180204-164520.png
+![](Screenshot_20180204-164520.png =250x250)
 
-./Screenshot_20180204-164532.png
+![](Screenshot_20180204-164532.png =250x250)
 
-./Screenshot_20180204-164550.png
+![](Screenshot_20180204-164550.png =250x250)
