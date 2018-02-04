@@ -10,9 +10,9 @@ Fonction disponible:
 
 Utilisation de l'application:
 
-![](Screenshot_20180204-164454.png | width="100")
+![](Screenshot_20180204-164454.png){:height="700px" width="400px"}
 
-![](Screenshot_20180204-164520.png |250x250)
+![](Screenshot_20180204-164520.png |250x250){:width="50%"}
 
 ![](Screenshot_20180204-164532.png =250x250)
 
